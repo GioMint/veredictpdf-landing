@@ -19,3 +19,4 @@ pnpm-debug.log*
 # IDE metadata
 .vscode/
 .idea/
+public/sandbox_checkout.html
